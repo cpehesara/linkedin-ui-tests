@@ -1,0 +1,12 @@
+# Copy this file to "config.properties" (same folder) and fill in YOUR OWN test account.
+# config.properties is listed in .gitignore, so it will not be committed.
+
+linkedin.email=your_test_account_email@example.com
+linkedin.password=your_test_account_password
+
+# Used by the search tests (Task 3 and Task 4)
+search.term=software testing
+search.company=Microsoft
+
+# Max seconds to wait when you need to complete a LinkedIn security check by hand
+manual.verification.timeout.seconds=120
